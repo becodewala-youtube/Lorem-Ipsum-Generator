@@ -1,0 +1,53 @@
+body{
+  background-color: #cf11ec;
+}
+.lorem-ipsum {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 300px;
+    margin: 20px 0;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    resize: none;
+  }
+  
+  .controls {
+    margin-top: 20px;
+  }
+  
+  input[type="number"] {
+    width: 70px;
+    height: 30px;
+    padding: 0 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  button {
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333333;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  
